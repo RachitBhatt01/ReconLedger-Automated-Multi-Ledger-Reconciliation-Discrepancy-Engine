@@ -2,6 +2,7 @@
 # added 5 second automatic records
 #Created some changes: Auto reconciliation. no need to upload Internal_Orders.csv and Bank_Settlement.csv and click on Reconcliate button.
 # Created some Changes: Dashboard is now dynamic, when record comes, values in database changes.
+# Created some changes: we can downlaod specific time line records.
 # App.py
 import os
 import random
