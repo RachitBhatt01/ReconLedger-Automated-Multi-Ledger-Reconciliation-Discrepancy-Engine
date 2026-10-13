@@ -1,6 +1,7 @@
 # Testing my next GitHub commit
 # added 5 second automatic records
 #Created some changes: Auto reconciliation. no need to upload Internal_Orders.csv and Bank_Settlement.csv and click on Reconcliate button.
+# Created some Changes: Dashboard is now dynamic, when record comes, values in database changes.
 # App.py
 import os
 import random
