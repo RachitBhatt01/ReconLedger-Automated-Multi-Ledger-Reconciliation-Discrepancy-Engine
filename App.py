@@ -1,5 +1,6 @@
 # Testing my next GitHub commit
 # added 5 second automatic records
+#Created some changes: Auto reconciliation. no need to upload Internal_Orders.csv and Bank_Settlement.csv and click on Reconcliate button.
 # App.py
 import os
 import random
